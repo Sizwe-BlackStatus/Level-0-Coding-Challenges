@@ -7,5 +7,5 @@ function commonChar(str1, str2) {
     }
   });
   let commonCharStr = commonCharArr.join(",");
-  return 'Output: ' + commonCharStr;
+  return 'Common letters: ' + commonCharStr;
 }
